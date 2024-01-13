@@ -1,2 +1,0 @@
-os.environ["COMPUTER_VISION_SUBSCRIPTION_KEY"] = "8a23bceaa7964270a97e2288d514a322"
-os.environ["COMPUTER_VISION_ENDPOINT"] = "https://rdivision.cognitiveservices.azure.com/"
